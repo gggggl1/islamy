@@ -1,2 +1,1 @@
-# islamy
-allah is your god
+<!DOCTYPE html>
